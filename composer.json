@@ -1,8 +1,5 @@
 
 {
-    "require": {
-        "mongodb/mongodb": "^1.12",
-        "firebase/php-jwt": "^6.1",
-        "paragonie/sodium_compat": "^1.17"
-    }
+    "name":"14sourabh7/composetest",
+    "version":"v1.0.0"
 }
